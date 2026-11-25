@@ -147,25 +147,7 @@ These findings provide an overview of the challenges and experiences reported by
 
 The Power BI dashboard provides a consolidated view of the survey findings, allowing users to explore different aspects of the data profession.
 
-![Data Professional Survey Breakdown Dashboard](Dashboard.png)
-
-## 📁 Repository Structure
-
-```text
-Data-Professional-Survey-PowerBI/
-│
-├── Dataset/
-│   └── Data_Professional_Survey.xlsx
-│
-├── Dashboard/
-│   └── Data_Professional_Survey.pbix
-│
-├── Dashboard.png
-│
-└── README.md
-```
-
-*Note: Update the filenames and folder structure according to the actual files uploaded to the repository.*
+<img width="1196" height="673" alt="Screenshot 2026-11-25 161433" src="https://github.com/user-attachments/assets/61c13305-6b01-4867-8de7-20c3ed5745a1" />
 
 ## 💡 Skills Demonstrated
 
